@@ -1,1 +1,2 @@
-resolviendo conflicto desde local
+resolviendo conflicto bien
+
